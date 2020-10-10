@@ -21,7 +21,7 @@ For each record in the dataset it is provided:
 - Its activity label.
 - An identifier of the subject who carried out the experiment.
 
-## Please see the README.md for how the following instructions are implemented [README.md](https://github.com/ehab-nt/datasciencecoursera/blob/master/Geting%20%26%20Cleaning%20Data/Week%204%20Project/README.md)
+## Please see the README.md for how the following instructions are implemented [README.md](https://github.com/ehab-nt/Week4/README.md)
 ### 1. Merge the training and the test sets to create one data set.
 ### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 ### 3. Uses descriptive activity names to name the activities in the data set
